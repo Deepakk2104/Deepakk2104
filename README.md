@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer with experience in 
 
 ## 🛠️ My Skills
 - **Languages:** JavaScript, HTML, CSS
-- **Frameworks/Libraries:** React, Redux, 
+- **Frameworks/Libraries:** React, Redux,Next.js
 Bootstrap, Tailwind, jQuery 
 - **Tools:** Git, Babel, VS Code, NPM
 - **Other:** RESTful APIs, Firebase, 
