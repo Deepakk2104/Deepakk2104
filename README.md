@@ -1,24 +1,23 @@
 # Hi there, I'm Deepak 👋
 
-Welcome to my GitHub profile! I'm a passionate ** Web Developer** with experience in building modern, responsive, and interactive web applications. I enjoy turning ideas into real-world projects and constantly learning new technologies.
+Welcome to my GitHub profile! I'm a passionate **Web Developer** with experience in building modern, responsive, and interactive web applications. I enjoy turning ideas into real-world projects and constantly learning new technologies.
 
 ---
 
 ## 🚀 About Me
 - 💻 Currently working with **React**, **Next.js**, and **Firebase**
 - 👯 Open to collaborating on exciting frontend and full-stack projects
-- 🧠 Learning backend technologies like **Java** and **Spring Boot**
 - 📫 Reach me at: **deepakk12435@gmail.com**
 
 ---
 
 ## 🛠️ My Skills
 
-- **Languages:** JavaScript, HTML, CSS  
+- **Languages:** JavaScript, TypeScript
 - **Frameworks & Libraries:** React, Redux, Next.js, jQuery, Bootstrap, Tailwind CSS  
 - **Tools:** Git, GitHub, VS Code, NPM, Yarn  
 - **Backend & Services:** Firebase (Auth, Firestore), REST APIs  
-- **Other:** Responsive UI/UX, State Management, Real-time Applications, Clean Code
+- **Other:** Responsive UI/UX, State Management, Real-time Applications
 
 ---
 ## 🔗 Connect with Me 
